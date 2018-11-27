@@ -2,7 +2,8 @@
 
 Its a Calender web app written using html,css and js.
 
-To use this web app download this project and open calender.html file.
+## How to use
+To use this web app download the zip file and extract and open calender.html file.
 Thank You.
 
 
